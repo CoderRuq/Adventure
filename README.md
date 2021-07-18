@@ -9,4 +9,4 @@ In reality this project may end up being a burning pile of garbage given my novi
 --CoderRuq.
 
 
-This repository makes use of python 3, and the python arcade library (arcade.academy).
+This repository makes use of python 3, and the python arcade library (https://arcade.academy).
