@@ -7,3 +7,6 @@ I want to recapture the wonder of that game, but also add onto it, with new game
 In reality this project may end up being a burning pile of garbage given my novice programming skills, but one can hope.
 
 --CoderRuq.
+
+
+This repository makes use of python 3, and the python arcade library (arcade.academy).
