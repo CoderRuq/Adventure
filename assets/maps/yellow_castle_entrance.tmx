@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="orthogonal" renderorder="right-up" width="64" height="36" tilewidth="20" tileheight="20" infinite="0" nextlayerid="2" nextobjectid="1">
+ <properties>
+  <property name="exit_top" value="yellow_castle"/>
+ </properties>
+ <tileset firstgid="1" source="walls.tsx"/>
+ <layer id="1" name="walls" width="64" height="36">
+  <data encoding="base64" compression="zlib">
+   eJztz0EKgDAMBMCc+v8nexVRKKGJRWcht6abGRExmmY2Xfd0Dz//7v4VqfJX3sa/ruOpp2M383dFz11X9V7m78qua1/lTubvDv+5s+p95pZO/07h5+fn5+fn5+fn5+fn5+f/fvj5+fn5TffM5u07+f/jPwD1/xDV
+  </data>
+ </layer>
+</map>
